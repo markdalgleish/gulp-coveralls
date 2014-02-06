@@ -8,8 +8,8 @@
 
 First, install `gulp-coveralls` as a dev dependency:
 
-```shell
-npm install --save-dev gulp-coveralls
+```bash
+$ npm install --save-dev gulp-coveralls
 ```
 
 Then, add it to your `gulpfile.js`:
@@ -18,7 +18,7 @@ Then, add it to your `gulpfile.js`:
 var coveralls = require('gulp-coveralls');
 
 gulp.src('test/coverage/**/lcov.info')
-	.pipe(coveralls());
+  .pipe(coveralls());
 ```
 
 ## License
