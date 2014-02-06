@@ -35,4 +35,4 @@ gulp.src('test/coverage/**/lcov.info')
 [coveralls-image]: https://coveralls.io/repos/markdalgleish/gulp-coveralls/badge.png
 
 [depstat-url]: https://david-dm.org/markdalgleish/gulp-coveralls
-[depstat-image]: https://david-dm.org/markdalgleish/gulp-coveralls.png
+[depstat-image]: https://david-dm.org/markdalgleish/gulp-coveralls.png?theme=shields.io
