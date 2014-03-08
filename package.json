@@ -27,7 +27,7 @@
     "through2": "~0.4.1"
   },
   "devDependencies": {
-    "coveralls": "~2.7.1",
+    "coveralls": "~2.8.0",
     "should": "~2.1.0",
     "sinon": "~1.8.1",
     "mocha-lcov-reporter": "0.0.1",
