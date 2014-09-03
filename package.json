@@ -1,6 +1,6 @@
 {
   "name": "gulp-coveralls",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Gulp plugin to submit code coverage to Coveralls",
   "keywords": [
     "gulpplugin",
