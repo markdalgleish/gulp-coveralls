@@ -27,7 +27,6 @@
     "through2": "^1.1.1"
   },
   "devDependencies": {
-    "coveralls": "^2.11.2",
     "event-stream": "^3.3.0",
     "gulp": "^3.8.11",
     "istanbul": "^0.3.13",
