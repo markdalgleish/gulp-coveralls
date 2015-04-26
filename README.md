@@ -26,13 +26,13 @@ gulp.src('test/coverage/**/lcov.info')
 [MIT License](http://markdalgleish.mit-license.org)
 
 [npm-url]: https://npmjs.org/package/gulp-coveralls
-[npm-image]: https://badge.fury.io/js/gulp-coveralls.png
+[npm-image]: https://img.shields.io/npm/v/gulp-coveralls.svg?style=flat-square
 
 [travis-url]: http://travis-ci.org/markdalgleish/gulp-coveralls
-[travis-image]: https://secure.travis-ci.org/markdalgleish/gulp-coveralls.png?branch=master
+[travis-image]: https://img.shields.io/travis/markdalgleish/gulp-coveralls/master.svg?style=flat-square
 
 [coveralls-url]: https://coveralls.io/r/markdalgleish/gulp-coveralls
-[coveralls-image]: https://coveralls.io/repos/markdalgleish/gulp-coveralls/badge.png
+[coveralls-image]: https://img.shields.io/coveralls/markdalgleish/gulp-coveralls/master.svg?style=flat-square
 
 [depstat-url]: https://david-dm.org/markdalgleish/gulp-coveralls
-[depstat-image]: https://david-dm.org/markdalgleish/gulp-coveralls.png?theme=shields.io
+[depstat-image]: https://img.shields.io/david/markdalgleish/gulp-coveralls/master.svg?style=flat-square
